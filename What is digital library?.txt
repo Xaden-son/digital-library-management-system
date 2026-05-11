@@ -1,0 +1,4 @@
+The digital library is my first project. It's just a terminal based library management application. Even the code not so hard, I'm thinking about how the developers can write these code with their own minds.
+Maybe, nowadays these things changed becase of ai. I don't know, of course I'll use ai too. 
+
+My aim is right now, I'll improve this code and add many many features, then this project will become a mobile application. I hope, I will handle it cuz I really have crazy ideas.
